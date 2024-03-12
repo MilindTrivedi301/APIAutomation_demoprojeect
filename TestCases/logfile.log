@@ -190,3 +190,27 @@
 12/03/2024 03:25:53 PM: INFO: UserPage: check_create_new_user_with_incomplete_data_api: Input Data is: {'name': 'morpheus', 'job': ''}
 12/03/2024 03:25:54 PM: ERROR: UserPage: check_create_new_user_with_incomplete_data_api: Status code of API is: 201, Expected Status code: 400
 12/03/2024 03:25:54 PM: ERROR: UserPage: check_create_new_user_with_incomplete_data_api: Status code of API is: 201, Expected Status code: 400
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Status_code is 200
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Status_code is 200
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Correct status code
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Correct status code
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Token is present
+12/03/2024 04:10:21 PM: INFO: loginPage: check_login_api_with_correct_cred: Token is present
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: API is: https://reqres.in/api/users?page=2
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: API is: https://reqres.in/api/users?page=2
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Status code of API is: 200
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Status code of API is: 200
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Response is correct
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Response is correct
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: API is: https://reqres.in/api/users?page=7
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: API is: https://reqres.in/api/users?page=7
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Status code of API is: 200
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Status code of API is: 200
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Response is correct
+12/03/2024 04:10:22 PM: INFO: UserPage: check_list_of_user_api: Response is correct
+12/03/2024 04:10:22 PM: INFO: UserPage: check_create_new_user_with_incomplete_data_api: API is: https://reqres.in/api/users?page={}
+12/03/2024 04:10:22 PM: INFO: UserPage: check_create_new_user_with_incomplete_data_api: API is: https://reqres.in/api/users?page={}
+12/03/2024 04:10:22 PM: INFO: UserPage: check_create_new_user_with_incomplete_data_api: Input Data is: {'name': 'morpheus', 'job': ''}
+12/03/2024 04:10:22 PM: INFO: UserPage: check_create_new_user_with_incomplete_data_api: Input Data is: {'name': 'morpheus', 'job': ''}
+12/03/2024 04:10:22 PM: ERROR: UserPage: check_create_new_user_with_incomplete_data_api: Status code of API is: 201, Expected Status code: 400
+12/03/2024 04:10:22 PM: ERROR: UserPage: check_create_new_user_with_incomplete_data_api: Status code of API is: 201, Expected Status code: 400
