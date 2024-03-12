@@ -17,4 +17,4 @@ class TestUserPage(UserPageMethods):
     def test_create_new_user_api(self):
         """USER PAGE: test create new user API with incomplete data """
         status = self.check_create_new_user_with_incomplete_data_api()
-        assert status
+        assert statuss
